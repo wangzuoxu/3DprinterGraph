@@ -1,0 +1,18 @@
+﻿psrel,s,p
+1,Parameter Configuring,Thermistor 
+2,Parameter Configuring,Filament 
+3,Printing Tracking,LCD Screen
+4,Quality Checking,Filament 
+5,Maintenance,X Tension Belt
+6,Maintenance,Y Tension Belt
+7,Maintenance,Extruder Gear
+8,Maintenance,Z-Axis Lead Screw
+9,Maintenance,X Stepper Motor
+10,Maintenance,Y Stepper Motor
+11,Maintenance,Z Stepper Motor
+12,Maintenance,Extruder Stepper Motor
+13,Maintenance,Nozzle Fan
+14,Maintenance,Part Fan
+15,Maintenance,Nozzle
+16,Inventory Management,Filament 
+17,Payment Selection,Filament 

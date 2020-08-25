@@ -1,0 +1,7 @@
+﻿pprel,p1,p2
+1,Nozzle,Filament 
+2,Nozzle,Nozzle Fan
+3,X Tension Belt,Y Tension Belt
+4,X Stepper Motor,Y Stepper Motor
+5,Y Stepper Motor,Z Stepper Motor
+6,Z Stepper Motor,X Stepper Motor
