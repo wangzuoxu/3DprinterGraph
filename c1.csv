@@ -1,0 +1,147 @@
+﻿c,c_name
+1,abs cracking even with cat guard
+2,adding extruders
+3,adhesion issue
+4,adjust extrusion speed
+5,auto bed leveling
+6,auto calibrate
+7,auto leveling
+8,auto leveling malfunction
+9,axis backlash
+10,axis shift
+11,bearing degrading
+12,bearing holder auto level
+13,bearing holder issue
+14,bearing issue
+15,bearing play
+16,bearing upgrade
+17,bearing wear
+18,bed calibration
+19,bed leveling fail
+20,bed temperature calibration
+21,belt slipping
+22,building enclosure
+23,calibration issue
+24,case fan issue
+25,case fan upgrade 
+26,cat guard 
+27,cooling fin loose
+28,dual extruder degrade
+29,dual extruder installation questions
+30,dual extruder pva support
+31,dual extruder questions
+32,dual extruder upgrade
+33,dual extrusion problems
+34,enclosure duct problem
+35,enclosure problem
+36,enclosures and ventilation
+37,extruder calibration
+38,extruder clogged
+39,extruder connector issue
+40,extruder miswired
+41,extruder mount cracked
+42,extruder stepper motor pin-out
+43,extruder toolhead replacement
+44,fan clean
+45,fan mount
+46,fan noise
+47,fan overdrive
+48,fan replacement
+49,fan stopped working
+50,fan wiring
+51,feed rate issue
+52,filament back up
+53,filament binding
+54,filament change
+55,filament material used
+56,filament snapping
+57,filament stops feeding
+58,filament stripping
+59,firmware settings
+60,firmware upgrade
+61,first layer issue
+62,flexydually cleaning and leveling
+63,flexystruder wipe failure
+64,gear broken
+65,gear slipping
+66,heat bed broken
+67,heat bed issue
+68,heat bed not working
+69,heat bed warp
+70,heat break fan not working
+71,heat resistor burn out
+72,heat resistors burn out
+73,heated bed fuse burn out
+74,heated bed not heating up
+75,heater resistor stuck
+76,hexagon nozzle problem
+77,homing issue
+78,hot end change
+79,hot end clogged
+80,hot end not heating up
+81,hot end temperature error
+82,hot end temperature low
+83,keep prove clean
+84,layer adhesion
+85,layer consistency
+86,layer shift
+87,lcd screen blink
+88,lcd screen connection
+89,lcd screen setting
+90,loose hotend
+91,max stepper temperature
+92,measuring print bed temperature
+93,mintemp error
+94,not extruding
+95,not printing
+96,not reading sd card
+97,nozzle broken
+98,nozzle change
+99,nozzle clogged
+100,nozzle height
+101,nozzle leveling
+102,nozzle loosed
+103,nozzle not extruding
+104,nozzle pressing into washers 
+105,nozzle replacement
+106,nozzle snapped
+107,overtemp error
+108,pei bed cleaning
+109,pei bubbling
+110,pei sheet replacement
+111,power supply dead
+112,print quality issue
+113,print size limitations
+114,print stopping in the middle of a print
+115,printing from sd card
+116,printing spare parts questions
+117,printing speed issue
+118,probe scratch heat bed
+119,probing failed
+120,producing rough surface
+121,purchase recommendation
+122,rambo board power supply
+123,rambo board replacement
+124,replace filament in the middle of a print
+125,replacing the stock parts
+126,rod source
+127,sd card broken
+128,sd card reading problem
+129,spool holder problem
+130,stop extruding
+131,switching to pla from abs
+132,temperaure limit override
+133,thermal error
+134,thermistor issue
+135,thermistor not working
+136,thermistor replacement
+137,toolhead wobble
+138,usb connection issue
+139,weird extrusion noise
+140,wiper missed
+141,wiring conflict
+142,wiring problem 
+143,wobble fix issue
+144,z layer problems
+145,z-axis noise
+146,z-axis stepper motor issue
