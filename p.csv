@@ -1,0 +1,21 @@
+﻿p,p_name
+1,Nozzle
+2,LCD Screen
+3,X Tension Belt
+4,Y Tension Belt
+5,PEI Surface Print Bed
+6,Rambo Board
+7,Bearing
+8,Extruder Gear
+9,Z-Axis Lead Screw
+10,X Stepper Motor
+11,Y Stepper Motor
+12,Z Stepper Motor
+13,Extruder Stepper Motor
+14,Heat Bed Cable
+15,Thermistor 
+16,Heat Break
+17,Heat Sink
+18,Nozzle Fan
+19,Part Fan
+20,Filament
