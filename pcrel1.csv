@@ -1,0 +1,482 @@
+pcrel,p,c
+1,Nozzle,abs cracking even with cat guard
+2,Nozzle Fan,abs cracking even with cat guard
+3,Nozzle,adding extruders
+4,Filament,adding extruders
+5,Nozzle,adding extruders
+6,Nozzle Fan,adding extruders
+7,Filament,adding extruders
+8,Nozzle,adhesion issue
+9,Filament,adhesion issue
+10,Filament,adhesion issue
+11,Filament,adjust extrusion speed
+12,Nozzle,auto bed leveling
+13,Filament,auto bed leveling
+14,Nozzle,auto bed leveling
+15,Nozzle,auto bed leveling
+16,Nozzle,auto bed leveling
+17,Y Tension Belt,auto bed leveling
+18,PEI Surface Print Bed,auto bed leveling
+19,PEI Surface Print Bed,auto bed leveling
+20,Filament,auto bed leveling
+21,Nozzle,auto calibrate
+22,Nozzle,auto leveling
+23,Bearing,auto leveling
+24,X Stepper Motor,auto leveling
+25,Nozzle,auto leveling malfunction
+26,Nozzle,auto leveling malfunction
+27,Filament,auto leveling malfunction
+28,Y Tension Belt,axis shift
+29,Bearing,bearing degrading
+30,Bearing,bearing holder auto level
+31,X Stepper Motor,bearing holder auto level
+32,Bearing,bearing holder issue
+33,Bearing,bearing holder issue
+34,Nozzle,bearing issue
+35,Bearing,bearing issue
+36,Filament,bearing issue
+37,Bearing,bearing issue
+38,Bearing,bearing issue
+39,Nozzle,bearing play
+40,Bearing,bearing play
+41,Bearing,bearing play
+42,Bearing,bearing upgrade
+43,Bearing,bearing wear
+44,Bearing,bearing wear
+45,Bearing,bearing wear
+46,Nozzle Fan,bed calibration
+47,Filament,bed calibration
+48,Nozzle,bed leveling fail
+49,Filament,bed leveling fail
+50,Nozzle,bed leveling fail
+51,Nozzle Fan,bed leveling fail
+52,PEI Surface Print Bed,bed leveling fail
+53,Heat Bed Cable,bed leveling fail
+54,Thermistor,bed temperature calibration
+55,Y Tension Belt,belt slipping
+56,Bearing,belt slipping
+57,Nozzle,building enclosure
+58,LCD Screen,building enclosure
+59,PEI Surface Print Bed,building enclosure
+60,Filament,building enclosure
+61,LCD Screen,building enclosure
+62,LCD Screen,building enclosure
+63,Rambo Board,building enclosure
+64,Nozzle Fan,building enclosure
+65,Filament,building enclosure
+66,Filament,building enclosure
+67,Filament,building enclosure
+68,Filament,building enclosure
+69,Y Tension Belt,calibration issue
+70,Nozzle Fan,case fan issue
+71,Nozzle Fan,case fan issue
+72,Rambo Board,case fan upgrade 
+73,Nozzle Fan,case fan upgrade 
+74,Nozzle,cooling fin loose
+75,Nozzle,dual extruder degrade
+76,Thermistor,dual extruder installation questions
+77,Nozzle Fan,dual extruder installation questions
+78,Nozzle,dual extruder questions
+79,Heat Sink,dual extruder questions
+80,Nozzle Fan,dual extruder questions
+81,Filament,dual extruder questions
+82,Nozzle,dual extruder questions
+83,Thermistor,dual extruder questions
+84,Nozzle,dual extruder questions
+85,Filament,dual extruder questions
+86,Nozzle,dual extruder questions
+87,Nozzle Fan,dual extruder questions
+88,Filament,dual extruder questions
+89,Nozzle,dual extruder questions
+90,Nozzle Fan,dual extruder questions
+91,Nozzle,dual extruder questions
+92,PEI Surface Print Bed,dual extruder questions
+93,PEI Surface Print Bed,dual extruder questions
+94,Nozzle Fan,dual extruder questions
+95,Filament,dual extruder questions
+96,Filament,dual extruder questions
+97,Filament,dual extruder questions
+98,Nozzle,dual extrusion problems
+99,Filament,dual extrusion problems
+100,Filament,dual extrusion problems
+101,Nozzle Fan,enclosure duct problem
+102,Nozzle Fan,enclosures and ventilation
+103,Nozzle,extruder calibration
+104,PEI Surface Print Bed,extruder calibration
+105,Filament,extruder calibration
+106,Filament,extruder calibration
+107,Filament,extruder calibration
+108,Filament,extruder calibration
+109,Filament,extruder calibration
+110,Nozzle,extruder clogged
+111,Filament,extruder clogged
+112,Nozzle,extruder clogged
+113,Filament,extruder clogged
+114,Nozzle,extruder clogged
+115,Nozzle Fan,extruder clogged
+116,Filament,extruder clogged
+117,Nozzle,extruder clogged
+118,Bearing,extruder clogged
+119,Heat Bed Cable,extruder clogged
+120,Filament,extruder clogged
+121,Nozzle,extruder clogged
+122,Heat Sink,extruder clogged
+123,Nozzle,extruder clogged
+124,Filament,extruder clogged
+125,Nozzle,extruder clogged
+126,Nozzle Fan,extruder clogged
+127,Filament,extruder clogged
+128,Nozzle Fan,extruder clogged
+129,Nozzle Fan,extruder clogged
+130,Filament,extruder clogged
+131,Nozzle Fan,extruder clogged
+132,Filament,extruder clogged
+133,Filament,extruder clogged
+134,Nozzle,extruder connector issue
+135,Extruder Stepper Motor,extruder connector issue
+136,Nozzle Fan,extruder connector issue
+137,Rambo Board,extruder miswired
+138,Filament,extruder mount cracked
+139,Nozzle,extruder stepper motor pin-out
+140,Extruder Stepper Motor,extruder stepper motor pin-out
+141,Thermistor,extruder stepper motor pin-out
+142,Nozzle Fan,extruder stepper motor pin-out
+143,Nozzle,extruder toolhead replacement
+144,Nozzle Fan,extruder toolhead replacement
+145,Nozzle Fan,fan clean
+146,Nozzle Fan,fan mount
+147,Heat Sink,fan noise
+148,Nozzle Fan,fan noise
+149,Nozzle Fan,fan noise
+150,Nozzle,fan overdrive
+151,Nozzle Fan,fan overdrive
+152,Filament,fan overdrive
+153,Nozzle Fan,fan overdrive
+154,Thermistor,fan replacement
+155,Nozzle Fan,fan replacement
+156,Nozzle,fan stopped working
+157,Nozzle Fan,fan stopped working
+158,Nozzle Fan,fan stopped working
+159,Part Fan,fan stopped working
+160,Filament,fan stopped working
+161,Nozzle Fan,fan stopped working
+162,Nozzle Fan,fan stopped working
+163,Nozzle Fan,fan stopped working
+164,Nozzle Fan,fan stopped working
+165,Nozzle Fan,fan stopped working
+166,Nozzle Fan,fan stopped working
+167,Nozzle Fan,fan stopped working
+168,Nozzle Fan,fan stopped working
+169,Nozzle,fan wiring
+170,Heat Sink,fan wiring
+171,Nozzle Fan,fan wiring
+172,Nozzle,feed rate issue
+173,LCD Screen,feed rate issue
+174,Filament,filament back up
+175,Filament,filament binding
+176,Filament,filament change
+177,Filament,filament material used
+178,Filament,filament material used
+179,Filament,filament snapping
+180,Nozzle,filament stops feeding
+181,Filament,filament stops feeding
+182,Nozzle,filament stripping
+183,Filament,filament stripping
+184,Filament,firmware settings
+185,Nozzle,firmware upgrade
+186,LCD Screen,firmware upgrade
+187,Nozzle,first layer issue
+188,Filament,first layer issue
+189,Nozzle,first layer issue
+190,Filament,first layer issue
+191,Nozzle,first layer issue
+192,Filament,first layer issue
+193,Nozzle,first layer issue
+194,Filament,first layer issue
+195,Nozzle,first layer issue
+196,Filament,first layer issue
+197,Bearing,first layer issue
+198,Filament,first layer issue
+199,Filament,first layer issue
+200,Nozzle,flexydually cleaning and leveling
+201,Nozzle Fan,flexydually cleaning and leveling
+202,Filament,flexydually cleaning and leveling
+203,Nozzle,flexystruder wipe failure
+204,Filament,gear slipping
+205,PEI Surface Print Bed,heat bed broken
+206,Nozzle Fan,heat bed broken
+207,Nozzle,heat bed not working
+208,Thermistor,heat bed not working
+209,Nozzle,heat bed warp
+210,PEI Surface Print Bed,heat bed warp
+211,Nozzle,heat bed warp
+212,Heat Break,heat break fan not working
+213,Nozzle Fan,heat break fan not working
+214,Thermistor,heat resistor burn out
+215,Heat Bed Cable,heat resistors burn out
+216,Thermistor,heat resistors burn out
+217,Nozzle,heated bed fuse burn out
+218,Nozzle,heated bed not heating up
+219,Thermistor,heated bed not heating up
+220,Nozzle,hexagon nozzle problem
+221,Nozzle,hexagon nozzle problem
+222,Nozzle,hexagon nozzle problem
+223,Nozzle,homing issue
+224,Nozzle,homing issue
+225,Nozzle,homing issue
+226,Nozzle,homing issue
+227,Nozzle,homing issue
+228,Nozzle,homing issue
+229,LCD Screen,homing issue
+230,Bearing,homing issue
+231,Z Stepper Motor,homing issue
+232,Nozzle Fan,homing issue
+233,Nozzle,hot end change
+234,Nozzle,hot end clogged
+235,Extruder Stepper Motor,hot end clogged
+236,Filament,hot end clogged
+237,Filament,hot end clogged
+238,Filament,hot end clogged
+239,Filament,hot end clogged
+240,Filament,hot end clogged
+241,Rambo Board,hot end not heating up
+242,Thermistor,hot end not heating up
+243,Nozzle Fan,hot end not heating up
+244,Filament,hot end not heating up
+245,LCD Screen,hot end temperature error
+246,Nozzle,hot end temperature low
+247,Nozzle,hot end temperature low
+248,LCD Screen,hot end temperature low
+249,Thermistor,hot end temperature low
+250,LCD Screen,hot end temperature low
+251,Filament,hot end temperature low
+252,LCD Screen,hot end temperature low
+253,Thermistor,hot end temperature low
+254,LCD Screen,hot end temperature low
+255,Filament,hot end temperature low
+256,Nozzle,keep prove clean
+257,PEI Surface Print Bed,keep prove clean
+258,Filament,keep prove clean
+259,Filament,keep prove clean
+260,Nozzle,layer adhesion
+261,Nozzle Fan,layer adhesion
+262,Filament,layer adhesion
+263,Nozzle,layer shift
+264,Nozzle,layer shift
+265,Rambo Board,layer shift
+266,Filament,layer shift
+267,Nozzle Fan,layer shift
+268,Filament,layer shift
+269,Filament,layer shift
+270,Filament,layer shift
+271,LCD Screen,lcd screen blink
+272,LCD Screen,lcd screen connection
+273,LCD Screen,lcd screen connection
+274,Filament,lcd screen connection
+275,LCD Screen,lcd screen setting
+276,LCD Screen,lcd screen setting
+277,Nozzle,loose hotend
+278,Rambo Board,max stepper temperature
+279,Nozzle Fan,max stepper temperature
+280,PEI Surface Print Bed,measuring print bed temperature
+281,Nozzle,mintemp error
+282,LCD Screen,mintemp error
+283,Heat Sink,mintemp error
+284,Nozzle Fan,mintemp error
+285,Nozzle Fan,mintemp error
+286,Nozzle,not extruding
+287,Filament,not extruding
+288,Nozzle,not extruding
+289,Nozzle Fan,not extruding
+290,Filament,not extruding
+291,Nozzle,not extruding
+292,Filament,not extruding
+293,Nozzle,not extruding
+294,Nozzle Fan,not extruding
+295,Filament,not extruding
+296,Nozzle,not extruding
+297,Heat Sink,not extruding
+298,Bearing,not extruding
+299,Filament,not extruding
+300,Filament,not extruding
+301,Filament,not extruding
+302,Filament,not extruding
+303,Filament,not extruding
+304,Nozzle,not printing
+305,LCD Screen,not reading sd card
+306,Nozzle,nozzle broken
+307,Nozzle Fan,nozzle broken
+308,Nozzle,nozzle broken
+309,Filament,nozzle broken
+310,Nozzle,nozzle broken
+311,Nozzle,nozzle change
+312,Nozzle,nozzle change
+313,Heat Break,nozzle change
+314,Filament,nozzle change
+315,Nozzle,nozzle change
+316,Nozzle,nozzle change
+317,Nozzle,nozzle change
+318,Filament,nozzle change
+319,Nozzle,nozzle clogged
+320,Filament,nozzle clogged
+321,Nozzle,nozzle clogged
+322,Nozzle,nozzle clogged
+323,Nozzle,nozzle clogged
+324,Filament,nozzle clogged
+325,Nozzle,nozzle clogged
+326,Filament,nozzle clogged
+327,Nozzle,nozzle clogged
+328,Filament,nozzle clogged
+329,Nozzle,nozzle clogged
+330,Nozzle,nozzle clogged
+331,Filament,nozzle clogged
+332,Nozzle,nozzle clogged
+333,Nozzle,nozzle clogged
+334,Filament,nozzle clogged
+335,Nozzle,nozzle clogged
+336,Nozzle Fan,nozzle clogged
+337,Filament,nozzle clogged
+338,PEI Surface Print Bed,nozzle clogged
+339,Filament,nozzle clogged
+340,Filament,nozzle clogged
+341,Nozzle,nozzle height
+342,Nozzle,nozzle leveling
+343,Nozzle,nozzle loosed
+344,Thermistor,nozzle loosed
+345,Heat Sink,nozzle loosed
+346,Nozzle,nozzle not extruding
+347,Nozzle,nozzle pressing into washers 
+348,Nozzle,nozzle replacement
+349,Filament,nozzle replacement
+350,Nozzle,nozzle replacement
+351,Filament,nozzle replacement
+352,Nozzle,nozzle snapped
+353,Nozzle,nozzle snapped
+354,Nozzle,overtemp error
+355,PEI Surface Print Bed,pei bed cleaning
+356,Filament,pei bed cleaning
+357,Filament,pei bed cleaning
+358,Nozzle,pei sheet replacement
+359,PEI Surface Print Bed,pei sheet replacement
+360,Nozzle,pei sheet replacement
+361,PEI Surface Print Bed,pei sheet replacement
+362,Nozzle,pei sheet replacement
+363,Nozzle,power supply dead
+364,Nozzle,power supply dead
+365,PEI Surface Print Bed,power supply dead
+366,Filament,power supply dead
+367,Nozzle,power supply dead
+368,Rambo Board,power supply dead
+369,Nozzle Fan,power supply dead
+370,Nozzle,power supply dead
+371,LCD Screen,power supply dead
+372,Rambo Board,power supply dead
+373,LCD Screen,power supply dead
+374,PEI Surface Print Bed,power supply dead
+375,PEI Surface Print Bed,power supply dead
+376,Rambo Board,power supply dead
+377,Nozzle Fan,power supply dead
+378,Bearing,power supply dead
+379,Nozzle Fan,power supply dead
+380,Nozzle Fan,power supply dead
+381,Nozzle,print quality issue
+382,Nozzle,print quality issue
+383,Nozzle,print quality issue
+384,Filament,print quality issue
+385,Nozzle,print quality issue
+386,PEI Surface Print Bed,print quality issue
+387,Filament,print quality issue
+388,Filament,print quality issue
+389,Filament,print quality issue
+390,Filament,print quality issue
+391,Filament,print quality issue
+392,Filament,print quality issue
+393,Nozzle,print size limitations
+394,Nozzle Fan,print size limitations
+395,Nozzle,print stopping in the middle of a print
+396,Nozzle,print stopping in the middle of a print
+397,LCD Screen,print stopping in the middle of a print
+398,PEI Surface Print Bed,print stopping in the middle of a print
+399,Nozzle Fan,print stopping in the middle of a print
+400,Nozzle,printing spare parts questions
+401,Rambo Board,printing spare parts questions
+402,Nozzle Fan,printing spare parts questions
+403,Extruder Gear,printing spare parts questions
+404,Nozzle,printing speed issue
+405,Nozzle,printing speed issue
+406,Bearing,printing speed issue
+407,Filament,printing speed issue
+408,Nozzle,probe scratch heat bed
+409,Nozzle,probing failed
+410,Nozzle,probing failed
+411,Nozzle Fan,probing failed
+412,Nozzle,purchase recommendation
+413,Heat Break,purchase recommendation
+414,Nozzle,purchase recommendation
+415,Nozzle Fan,purchase recommendation
+416,Filament,purchase recommendation
+417,Nozzle,purchase recommendation
+418,Nozzle,purchase recommendation
+419,Nozzle Fan,purchase recommendation
+420,Nozzle,purchase recommendation
+421,Nozzle,purchase recommendation
+422,Filament,purchase recommendation
+423,Nozzle,purchase recommendation
+424,Bearing,purchase recommendation
+425,Nozzle Fan,purchase recommendation
+426,Filament,purchase recommendation
+427,Filament,purchase recommendation
+428,Filament,purchase recommendation
+429,Filament,purchase recommendation
+430,Filament,purchase recommendation
+431,Filament,purchase recommendation
+432,Rambo Board,rambo board power supply
+433,Rambo Board,rambo board replacement
+434,Nozzle Fan,rambo board replacement
+435,Filament,replace filament in the middle of a print
+436,Bearing,rod source
+437,PEI Surface Print Bed,sd card reading problem
+438,Bearing,spool holder problem
+439,Filament,spool holder problem
+440,Bearing,spool holder problem
+441,Thermistor,spool holder problem
+442,Nozzle Fan,spool holder problem
+443,Filament,spool holder problem
+444,Filament,spool holder problem
+445,Filament,spool holder problem
+446,Filament,stop extruding
+447,Nozzle,temperaure limit override
+448,Nozzle Fan,temperaure limit override
+449,Nozzle,thermal error
+450,Thermistor,thermal error
+451,Thermistor,thermal error
+452,Nozzle,thermistor issue
+453,Thermistor,thermistor issue
+454,Thermistor,thermistor not working
+455,Thermistor,thermistor replacement
+456,Thermistor,thermistor replacement
+457,Thermistor,thermistor replacement
+458,Nozzle Fan,thermistor replacement
+459,Nozzle,toolhead wobble
+460,Bearing,toolhead wobble
+461,Nozzle Fan,usb connection issue
+462,PEI Surface Print Bed,weird extrusion noise
+463,Bearing,weird extrusion noise
+464,Nozzle,wiper missed
+465,Nozzle,wiper missed
+466,Rambo Board,wiring conflict
+467,Nozzle Fan,wiring conflict
+468,Filament,wiring conflict
+469,Nozzle,wiring problem 
+470,Bearing,wobble fix issue
+471,Bearing,wobble fix issue
+472,Filament,wobble fix issue
+473,Filament,z layer problems
+474,Nozzle,z-axis noise
+475,Bearing,z-axis noise
+476,Z-Axis Lead Screw,z-axis noise
+477,Nozzle Fan,z-axis noise
+478,Nozzle,z-axis stepper motor issue
+479,Nozzle Fan,z-axis stepper motor issue
+480,Z-Axis Lead Screw,z-axis stepper motor issue
+481,Filament,z-axis stepper motor issue

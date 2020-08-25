@@ -1,0 +1,228 @@
+screl,s,c
+1,Printing Tracking,abs cracking even with cat guard
+2,Printing Tracking,adhesion issue
+3,Printing Tracking,adhesion issue
+4,Printing Tracking,adhesion issue
+5,Printing Tracking,adjust extrusion speed
+6,Printing Tracking,auto bed leveling
+7,Printing Tracking,auto bed leveling
+8,Printing Tracking,auto leveling
+9,Printing Tracking,axis backlash
+10,Printing Tracking,bearing wear
+11,Quality Checking,bearing wear
+12,Printing Tracking,bed calibration
+13,Printing Tracking,bed calibration
+14,Printing Tracking,bed leveling fail
+15,Printing Tracking,bed temperature calibration
+16,Printing Tracking,belt slipping
+17,Quality Checking,belt slipping
+18,Printing Tracking,building enclosure
+19,Printing Tracking,building enclosure
+20,Quality Checking,building enclosure
+21,Maintenance,building enclosure
+22,Printing Tracking,calibration issue
+23,Printing Tracking,cat guard 
+24,Printing Tracking,dual extruder pva support
+25,Parameter Configuring,dual extruder questions
+26,Printing Tracking,dual extruder questions
+27,Printing Tracking,dual extruder questions
+28,Printing Tracking,dual extruder questions
+29,Printing Tracking,dual extruder questions
+30,Quality Checking,dual extruder questions
+31,Printing Tracking,dual extruder questions
+32,Printing Tracking,dual extruder questions
+33,Quality Checking,dual extruder questions
+34,Printing Tracking,dual extruder upgrade
+35,Printing Tracking,enclosure problem
+36,Printing Tracking,enclosures and ventilation
+37,Printing Tracking,extruder calibration
+38,Printing Tracking,extruder calibration
+39,Printing Tracking,extruder calibration
+40,Printing Tracking,extruder calibration
+41,Printing Tracking,extruder clogged
+42,Printing Tracking,extruder clogged
+43,Printing Tracking,extruder clogged
+44,Quality Checking,extruder clogged
+45,Printing Tracking,extruder clogged
+46,Printing Tracking,extruder clogged
+47,Printing Tracking,extruder toolhead replacement
+48,Quality Checking,fan mount
+49,Printing Tracking,fan noise
+50,Printing Tracking,fan noise
+51,Printing Tracking,fan stopped working
+52,Printing Tracking,fan stopped working
+53,Printing Tracking,feed rate issue
+54,Printing Tracking,filament material used
+55,Printing Tracking,filament stripping
+56,Printing Tracking,firmware settings
+57,Printing Tracking,firmware settings
+58,Printing Tracking,firmware settings
+59,Printing Tracking,first layer issue
+60,Printing Tracking,first layer issue
+61,Printing Tracking,first layer issue
+62,Printing Tracking,first layer issue
+63,Printing Tracking,first layer issue
+64,Printing Tracking,first layer issue
+65,Printing Tracking,first layer issue
+66,Printing Tracking,first layer issue
+67,Quality Checking,first layer issue
+68,Printing Tracking,flexydually cleaning and leveling
+69,Printing Tracking,gear broken
+70,Printing Tracking,heat bed issue
+71,Quality Checking,heat bed issue
+72,Printing Tracking,heat bed warp
+73,Printing Tracking,heat resistor burn out
+74,Printing Tracking,heated bed fuse burn out
+75,Printing Tracking,heater resistor stuck
+76,Printing Tracking,hexagon nozzle problem
+77,Printing Tracking,homing issue
+78,Printing Tracking,hot end clogged
+79,Printing Tracking,hot end clogged
+80,Printing Tracking,hot end not heating up
+81,Printing Tracking,hot end not heating up
+82,Printing Tracking,hot end not heating up
+83,Printing Tracking,hot end temperature error
+84,Printing Tracking,hot end temperature low
+85,Printing Tracking,hot end temperature low
+86,Printing Tracking,hot end temperature low
+87,Printing Tracking,hot end temperature low
+88,Printing Tracking,layer consistency
+89,Quality Checking,layer consistency
+90,Printing Tracking,layer shift
+91,Printing Tracking,layer shift
+92,Printing Tracking,layer shift
+93,Printing Tracking,layer shift
+94,Printing Tracking,layer shift
+95,Printing Tracking,layer shift
+96,Printing Tracking,layer shift
+97,Printing Tracking,loose hotend
+98,Quality Checking,loose hotend
+99,Printing Tracking,mintemp error
+100,Parameter Configuring,not extruding
+101,Printing Tracking,not extruding
+102,Quality Checking,not extruding
+103,Maintenance,not extruding
+104,Inventory Management,not extruding
+105,Payment Selection,not extruding
+106,Printing Tracking,not extruding
+107,Quality Checking,not extruding
+108,Printing Tracking,not extruding
+109,Printing Tracking,not extruding
+110,Printing Tracking,not extruding
+111,Printing Tracking,not extruding
+112,Printing Tracking,not printing
+113,Printing Tracking,not printing
+114,Printing Tracking,not reading sd card
+115,Printing Tracking,not reading sd card
+116,Printing Tracking,not reading sd card
+117,Printing Tracking,nozzle change
+118,Printing Tracking,nozzle clogged
+119,Printing Tracking,nozzle clogged
+120,Printing Tracking,nozzle clogged
+121,Printing Tracking,nozzle clogged
+122,Printing Tracking,nozzle clogged
+123,Printing Tracking,nozzle clogged
+124,Printing Tracking,nozzle clogged
+125,Printing Tracking,nozzle clogged
+126,Quality Checking,nozzle clogged
+127,Printing Tracking,nozzle leveling
+128,Printing Tracking,nozzle not extruding
+129,Printing Tracking,nozzle replacement
+130,Printing Tracking,nozzle replacement
+131,Quality Checking,nozzle replacement
+132,Printing Tracking,nozzle snapped
+133,Printing Tracking,pei bed cleaning
+134,Maintenance,pei bed cleaning
+135,Printing Tracking,pei bed cleaning
+136,Printing Tracking,pei bed cleaning
+137,Printing Tracking,pei bed cleaning
+138,Printing Tracking,pei bubbling
+139,Printing Tracking,pei bubbling
+140,Printing Tracking,pei sheet replacement
+141,Printing Tracking,pei sheet replacement
+142,Printing Tracking,pei sheet replacement
+143,Printing Tracking,pei sheet replacement
+144,Printing Tracking,power supply dead
+145,Printing Tracking,power supply dead
+146,Printing Tracking,power supply dead
+147,Printing Tracking,power supply dead
+148,Printing Tracking,power supply dead
+149,Printing Tracking,print quality issue
+150,Printing Tracking,print quality issue
+151,Quality Checking,print quality issue
+152,Printing Tracking,print quality issue
+153,Quality Checking,print quality issue
+154,Printing Tracking,print quality issue
+155,Printing Tracking,print quality issue
+156,Quality Checking,print quality issue
+157,Printing Tracking,print quality issue
+158,Printing Tracking,print quality issue
+159,Printing Tracking,print quality issue
+160,Printing Tracking,print quality issue
+161,Printing Tracking,print quality issue
+162,Printing Tracking,print quality issue
+163,Quality Checking,print quality issue
+164,Printing Tracking,print quality issue
+165,Quality Checking,print quality issue
+166,Printing Tracking,print quality issue
+167,Quality Checking,print quality issue
+168,Quality Checking,print quality issue
+169,Quality Checking,print quality issue
+170,Quality Checking,print quality issue
+171,Quality Checking,print quality issue
+172,Printing Tracking,print size limitations
+173,Quality Checking,print size limitations
+174,Printing Tracking,print stopping in the middle of a print
+175,Printing Tracking,print stopping in the middle of a print
+176,Printing Tracking,print stopping in the middle of a print
+177,Printing Tracking,print stopping in the middle of a print
+178,Printing Tracking,print stopping in the middle of a print
+179,Printing Tracking,print stopping in the middle of a print
+180,Printing Tracking,print stopping in the middle of a print
+181,Printing Tracking,printing from sd card
+182,Printing Tracking,printing spare parts questions
+183,Printing Tracking,printing spare parts questions
+184,Printing Tracking,printing spare parts questions
+185,Printing Tracking,printing spare parts questions
+186,Parameter Configuring,printing speed issue
+187,Parameter Configuring,printing speed issue
+188,Printing Tracking,printing speed issue
+189,Parameter Configuring,printing speed issue
+190,Printing Tracking,printing speed issue
+191,Printing Tracking,printing speed issue
+192,Printing Tracking,printing speed issue
+193,Quality Checking,printing speed issue
+194,Printing Tracking,printing speed issue
+195,Printing Tracking,producing rough surface
+196,Printing Tracking,purchase recommendation
+197,Printing Tracking,purchase recommendation
+198,Printing Tracking,purchase recommendation
+199,Quality Checking,purchase recommendation
+200,Printing Tracking,purchase recommendation
+201,Printing Tracking,purchase recommendation
+202,Printing Tracking,purchase recommendation
+203,Printing Tracking,purchase recommendation
+204,Maintenance,purchase recommendation
+205,Printing Tracking,purchase recommendation
+206,Printing Tracking,purchase recommendation
+207,Quality Checking,purchase recommendation
+208,Printing Tracking,purchase recommendation
+209,Quality Checking,purchase recommendation
+210,Maintenance,purchase recommendation
+211,Printing Tracking,replacing the stock parts
+212,Printing Tracking,sd card broken
+213,Printing Tracking,sd card reading problem
+214,Printing Tracking,spool holder problem
+215,Printing Tracking,switching to pla from abs
+216,Printing Tracking,temperaure limit override
+217,Printing Tracking,thermal error
+218,Printing Tracking,thermal error
+219,Printing Tracking,weird extrusion noise
+220,Quality Checking,weird extrusion noise
+221,Printing Tracking,wobble fix issue
+222,Printing Tracking,wobble fix issue
+223,Quality Checking,wobble fix issue
+224,Quality Checking,z-axis noise
+225,Printing Tracking,z-axis stepper motor issue
+226,Printing Tracking,z-axis stepper motor issue
+227,Quality Checking,z-axis stepper motor issue
